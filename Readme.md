@@ -1,5 +1,7 @@
 # deep-diff
 
+本仓库是 (https://www.npmjs.com/package/deep-diff) 的镜像
+
 [![CircleCI](https://circleci.com/gh/flitbit/diff.svg?style=svg)](https://circleci.com/gh/flitbit/diff)
 
 [![NPM](https://nodei.co/npm/deep-diff.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/deep-diff/)
