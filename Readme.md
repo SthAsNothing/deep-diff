@@ -1,6 +1,6 @@
 # deep-diff
 
-本仓库是 (https://www.npmjs.com/package/deep-diff) 的镜像
+本仓库是 https://www.npmjs.com/package/deep-diff 的镜像，原作版权归作者 flitbit，保留所有许可证及署名。仅做备份。
 
 [![CircleCI](https://circleci.com/gh/flitbit/diff.svg?style=svg)](https://circleci.com/gh/flitbit/diff)
 
